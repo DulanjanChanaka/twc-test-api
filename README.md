@@ -10,9 +10,9 @@ Table of Contents
 ### Installation
 `git clone https://github.com/DulanjanChanaka/twc-test-api.git` 
 
-`npm install`
-
 `cd twc-test-api`
+
+`npm install`
 
 `npx nodemon server.js`
 
