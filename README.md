@@ -12,6 +12,8 @@ Table of Contents
 
 `npm install`
 
+`cd twc-test-api`
+
 `npx nodemon server.js`
 
 ### API Endpoints
